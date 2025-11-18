@@ -1,113 +1,521 @@
-胖东来
-于东来
+美联储
+Fed
+FOMC
+联邦基金利率
++利率决议
 
-DeepSeek
-梁文锋
+美联储
+Fed
+FOMC
++加息
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+美联储
+Fed
+FOMC
++降息
 
-比亚迪
-王传福
+美联储
+FOMC
+点阵图
+dot plot
++点阵图
 
-大疆
-DJI
+FOMC
+会议纪要
+minutes
++纪要
 
-宇树
-王兴兴
+FOMC
+minutes
++minutes
 
-智元
-灵犀
-稚晖君
-彭志辉
+鲍威尔
+Powell
++讲话
 
-黑神话
-冯骥
+Powell
++speech
 
-影之刃零
-梁其伟
+Powell
++testimony
 
-哪吒
-饺子
-杨宇
-!车
-!餐
+联储票委
+Fed official
++讲话
 
-三体
-流浪地球
-刘慈欣
-郭帆
+加息预期
+降息预期
+rate hike
+rate cut
+FedWatch
++预期
 
-申奥
+CPI
+核心CPI
+通胀
+通货膨胀
+inflation
++公布
 
-京东
-刘强东
+CPI
+core CPI
+inflation
++data
 
-字节
-bytedance
-张一鸣
+PCE
+核心PCE
+core PCE
++通胀
 
-特斯拉
-马斯克
+PCE
+core PCE
++data
+
+非农
+非农就业
+NFP
+nonfarm payrolls
++就业
+
+非农
+NFP
+nonfarm payrolls
++数据
+
+失业率
+unemployment rate
+jobless rate
++数据
+
+Jobless claims
+initial jobless claims
+失业救济
++申请
+
+JOLTS
+职位空缺
+job openings
++数据
+
+ISM
+PMI
+Markit PMI
+采购经理指数
++数据
+
+零售销售
+retail sales
++数据
+
+美国GDP
+US GDP
+GDP growth
++数据
+
+耐用品订单
+durable goods orders
++订单
+
+美国国债
+美债
+美国国债收益率
+美债收益率
+10年期美债
+10Y Treasury
+US10Y
++收益率
+
+2年期美债
+US2Y
++收益率
+
+30年期美债
+US30Y
++收益率
+
+收益率曲线
+yield curve
+inverted yield curve
+curve inversion
++倒挂
+
+国债拍卖
+Treasury auction
++结果
+
+国债拍卖
+Treasury auction
++需求
+
+TLT
+IEF
+SHY
+国债ETF
++大跌
+
+TLT
+IEF
+SHY
+国债ETF
++大涨
+
+美元指数
+DXY
++走强
+
+美元指数
+DXY
++走弱
+
+美元流动性
+dollar liquidity
++收紧
+
+美元流动性
+dollar liquidity
++宽松
+
+QE
+量化宽松
+资产购买
+balance sheet
++扩表
+
+QT
+缩表
+balance sheet
++缩表
+
+黄金
+现货黄金
+黄金期货
+金价
+国际金价
++价格
+
+gold
+gold price
+gold futures
+spot gold
+XAUUSD
++price
+
+黄金
+gold
+避险
+safe haven
++买盘
+
+纳斯达克
+纳指
+Nasdaq
++大跌
+
+纳斯达克
+纳指
+Nasdaq
++大涨
+
+标普500
+标普
+S&P 500
++大跌
+
+标普500
+标普
+S&P 500
++大涨
+
+VIX
+恐慌指数
++飙升
+
+科技股
+美股科技
+成长股
++暴跌
+
+科技股
+美股科技
+成长股
++暴涨
+
+苹果
+Apple
+AAPL
++财报
+
+苹果
+Apple
+AAPL
++earnings
+
+苹果
+Apple
+AAPL
++指引
 
 微软
 Microsoft
+MSFT
++财报
+
+微软
+Microsoft
+MSFT
++earnings
+
+微软
+Microsoft
+MSFT
++云业务
 
 英伟达
-NVIDIA
-黄仁勋
+Nvidia
+NVDA
++财报
 
-AMD
+英伟达
+Nvidia
+NVDA
++earnings
+
+英伟达
+Nvidia
+NVDA
++指引
+
+英伟达
+Nvidia
+NVDA
++GPU
+
+亚马逊
+Amazon
+AMZN
++财报
+
+亚马逊
+Amazon
+AMZN
++earnings
+
+亚马逊
+Amazon
+AMZN
++云
 
 谷歌
-google
-gemini
-deepmind
+字母表
+Alphabet
+GOOGL
+GOOG
++财报
 
-chatgpt
-openai
-sora
+Alphabet
+GOOGL
+GOOG
++earnings
 
-claude
-Anthropic
+Meta
+META
++财报
 
-iphone
-ipad
-mac
-ios
+Meta
+META
++earnings
 
-ai
-!gai
+特斯拉
+Tesla
+TSLA
++财报
+
+特斯拉
+Tesla
+TSLA
++earnings
+
+特斯拉
+Tesla
+TSLA
++交付
+
+特斯拉
+Tesla
+TSLA
++deliveries
+
+AMD
++财报
+
+AMD
++earnings
+
+AMD
++指引
+
+AVGO
+Broadcom
++earnings
+
+ASML
++orders
+
+Micron
+MU
++earnings
+
+Micron
+MU
++指引
+
+Snowflake
+SNOW
++earnings
+
+Palantir
+PLTR
++earnings
+
+AI概念
 人工智能
+AI
++利好
 
-自动驾驶
+AI概念
+人工智能
+AI
++利空
 
-机器人
+并购
+收购
+合并
+M&A
+takeover
++交易
 
-国产
-中国
+反垄断
+antitrust
++调查
 
-美国
-日本
-韩国
+监管调查
+SEC investigation
+DoJ investigation
+FTC investigation
++处罚
 
-芯片
-光刻机
+股票回购
+回购
+buyback
++公告
 
-科技
+分红
+股息
+dividend
++公告
 
-核能
+盈利预警
+业绩预警
+profit warning
++下调
 
-水电站
-雅鲁藏布江
+上调指引
+raise guidance
++指引
 
-新质生产力
+裁员
+layoffs
+重组
+restructuring
++计划
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+gamma squeeze
+short squeeze
+空头回补
++做空
+
+short interest
+空头仓位
++上升
+
+期权成交
+期权交易
+options trading
++放量
+
+implied volatility
+隐含波动率
++飙升
+
+地缘政治
+地缘风险
++升级
+
+中美关系
+贸易战
+关税
++升级
+
+制裁
+sanctions
+出口管制
+chip ban
++措施
+
+原油
+油价
+布伦特原油
+WTI
++飙升
+
+原油
+油价
+布伦特原油
+WTI
++暴跌
+
+shipping rates
+运费
+红海航线
++中断
+
+黑天鹅
+系统性风险
+systemic risk
++事件
+
+熔断
+circuit breaker
++触发
+
+market crash
+股市崩盘
++暴跌
+
+美股
+股票
+投资
+理财
+!广告
+!推广
+!培训
+!课程
+!网赚
+!副业
+!轻松日赚
+!稳赚不赔
+!关注公众号
+!加微信
+!扫码
+
+stock
+stocks
+investing
+trading
+!sponsored
+!Sponsored
+!Advertisement
+!advertorial
+!Click here
+!subscribe my channel
+!Like and subscribe
